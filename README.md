@@ -1,5 +1,7 @@
 # 营养学历史文献调研防幻觉 Skill
 
+[English version](README.en.md)
+
 这是一个面向 **营养学史、食疗史、饮食医学史与东西方营养史大工程** 的防幻觉工作流 skill。它的核心目标不是节省 token，而是把“搜索片段、模型常识、百科概括、古籍经验、现代营养证据”严格分层，避免在历史文献调研中把线索误写成结论。
 
 本仓库由本地 custom skill `.library/custom/nutrition-history-anti-hallucination/` 整理而来，可作为独立小仓库公开发布和复用。
