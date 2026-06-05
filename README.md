@@ -75,3 +75,5 @@
 ## 许可
 
 当前整理未附加专门许可证。公开发布前如需明确开源许可证，建议仓库所有者补充 `LICENSE` 文件。
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->

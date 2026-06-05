@@ -60,3 +60,5 @@ Recommended outputs for each batch include:
 ## License
 
 No dedicated license file is currently attached. Before public release, the repository owner may add a `LICENSE` file if an explicit open-source license is needed.
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
